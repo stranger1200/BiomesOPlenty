@@ -1,0 +1,116 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/dead"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/empyreal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/fir"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hellbark"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/jacaranda"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/magic"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/mahogany"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/maple"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/origin_oak"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/palm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/pine"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/redwood"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/umbran"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/willow"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/dead"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/empyreal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/fir"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/hellbark"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/jacaranda"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/magic"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/mahogany"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/maple"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/origin_oak"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/palm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/pine"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/redwood"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/umbran"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "biomesoplenty:entity/signs/hanging/willow"
+    }
+  ]
+}
